@@ -1,2 +1,2 @@
 # Arduino-Codes
- Arduino Codes used in App Physics 184
+ Arduino codes used in App Physics 184
